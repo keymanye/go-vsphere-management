@@ -1,0 +1,243 @@
+﻿宿主机,虚拟机,系统,状态,IP地址,内存,CPU,存储
+host-25,shqh2-01,,poweredOff,,0 MB ,0 vCPU(s) ,13.9GB
+host-25,yundao-kafka1,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,4.4GB
+host-25,shqh2-02,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,15.3GB
+host-25,vCLS (6),Other 3.x or later Linux (64-bit),poweredOn,,128 MB ,1 vCPU(s) ,1.1GB
+host-25,RH436-05,,poweredOff,,0 MB ,0 vCPU(s) ,45.5GB
+host-25,yundao-backup1,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,384.0MB
+host-25,student19,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-25,shqh2-39,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,12.9GB
+host-25,student04,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,7.0GB
+host-25,DO447-03,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,54.9GB
+host-25,openstack-IN-kvm-Template,CentOS 7 (64-bit),poweredOff,,16384 MB ,4 vCPU(s) ,49.5GB
+host-25,shqh2-47,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.2GB
+host-25,student08,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-25,CEPH125-04,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,44.2GB
+host-25,shqh2-09,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.3GB
+host-25,shqh2-34,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.5GB
+host-25,yunwang-k8s01,CentOS 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,12.4GB
+host-25,student15,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-25,shqh2-18,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.4GB
+host-25,student12,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-25,yunyan-node03,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,3.8GB
+host-25,yunju-node04,,poweredOff,,0 MB ,0 vCPU(s) ,5.5GB
+host-25,RH436-15,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,37.6GB
+host-25,student25,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-25,yundao-redis1,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,4.1GB
+host-25,centos7-base,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,2.6GB
+host-25,student41,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.3GB
+host-25,python-test3,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,2.8GB
+host-25,shqh2-13,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.2GB
+host-33,student31,,poweredOff,,0 MB ,0 vCPU(s) ,6.3GB
+host-33,student27,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-33,shqh2-37,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.7GB
+host-33,shqh2-27,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.8GB
+host-33,yunyi-01,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,165.6GB
+host-33,yundao-k8snode3,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,3.4GB
+host-33,student34,,poweredOff,,0 MB ,0 vCPU(s) ,6.3GB
+host-33,shqh2-20,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.7GB
+host-33,DO447-05,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,54.9GB
+host-33,CEPH125-06,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,42.7GB
+host-33,RH436-17,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,43.0GB
+host-33,RH436-07,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,21.3GB
+host-33,yunyan-node01,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,17.4GB
+host-33,yundao-harbor,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,3.4GB
+host-33,yunju-node01,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,22.0GB
+host-50,yundao-nginx,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,7.1GB
+host-50,yunyan-node06,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,5.2GB
+host-50,yunyan-node09,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,4.0GB
+host-50,yunju-node07,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,4.5GB
+host-50,yundao-nfs,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,14.9GB
+host-50,RH436-19,,poweredOff,,0 MB ,0 vCPU(s) ,37.4GB
+host-50,shqh2-30,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.7GB
+host-50,shqh2-12,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.1GB
+host-50,yundao-artifatory,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,3.4GB
+host-50,student18,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,5.8GB
+host-50,shqh2-15,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.1GB
+host-50,student29,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-50,shqh2-23,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,1.3GB
+host-50,CEPH125-09,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,66.3GB
+host-50,student05,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-50,student03,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-50,RH436-10,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,37.2GB
+host-50,DO447-08,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,55.0GB
+host-50,yunwang-harbor,CentOS 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,10.7GB
+host-50,DO447-09,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,22.5GB
+host-21,shqh2-05,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,12.9GB
+host-21,shqh2-31,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.5GB
+host-21,CEPH125-03,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,68.1GB
+host-21,student32,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.3GB
+host-21,rh294-03,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,16384 MB ,4 vCPU(s) ,69.0GB
+host-21,RH436-14,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,44.8GB
+host-21,yundao-kafka3,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,4.5GB
+host-21,yunyan-node02,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,1.7GB
+host-21,yundao-k8snode1,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,45.3GB
+host-21,RH436-04,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,37.3GB
+host-21,shqh2-32,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.8GB
+host-21,shqh2-06,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.4GB
+host-21,shqh2-46,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,12.9GB
+host-21,DO447-02,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,52.8GB
+host-21,shqh2-40,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.4GB
+host-21,student13,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-21,yundao-k8smaster,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,36.4GB
+host-21,cl210-template,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,49152 MB ,8 vCPU(s) ,166.3GB
+host-21,DB-Template,CentOS 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,1.9GB
+host-21,shqh2-08,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,2.2GB
+host-21,vCLS (5),Other 3.x or later Linux (64-bit),poweredOn,,128 MB ,1 vCPU(s) ,1.0GB
+host-21,yunju-node06,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,4.5GB
+host-21,student06,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,1.2GB
+host-21,student36,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.3GB
+host-21,szqh2-49,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.6GB
+host-21,CEPH125,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,42.7GB
+host-46,shqh2-22,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.2GB
+host-46,student40,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.3GB
+host-46,CEPH125-10,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,44.3GB
+host-46,rh436,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,34.9GB
+host-46,student38,,poweredOff,,0 MB ,0 vCPU(s) ,6.3GB
+host-46,student02,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-46,shqh2-03,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,12.9GB
+host-46,shqh2-43,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.1GB
+host-46,RH436-11,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,44.9GB
+host-46,VPN_Server,CentOS 7 (64-bit),poweredOn,172.31.0.243,4096 MB ,2 vCPU(s) ,7.5GB
+host-46,rh294,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,16384 MB ,4 vCPU(s) ,66.9GB
+host-46,yundao-safe,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,3.5GB
+host-46,rhel74,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,43008 MB ,2 vCPU(s) ,116.0MB
+host-46,centos7-epel+Docker,CentOS 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,4.0GB
+host-46,RH436-01,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,40.8GB
+host-46,student39,,poweredOff,,0 MB ,0 vCPU(s) ,6.3GB
+host-46,FTP_SERVER,CentOS 7 (64-bit),poweredOn,172.31.0.241,4096 MB ,2 vCPU(s) ,109.3GB
+host-46,student01,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,2.0GB
+host-46,do280,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,37.1GB
+host-29,RH436-06,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,37.3GB
+host-29,vCLS (4),Other 3.x or later Linux (64-bit),poweredOn,,128 MB ,1 vCPU(s) ,1.1GB
+host-29,ming200.45,CentOS 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,40.0GB
+host-29,yundao-redis3,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,1.4GB
+host-29,yunyan-node05,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,3.8GB
+host-29,yunyan-node07,,poweredOff,,0 MB ,0 vCPU(s) ,3.9GB
+host-29,yundao-jenkins,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,3.4GB
+host-29,DO447-04,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,2.1GB
+host-29,yunju-node05,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,2.2GB
+host-29,student28,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-29,student33,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.3GB
+host-29,yunju-node03,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,5.6GB
+host-29,k8s-01,CentOS 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.1GB
+host-29,shqh2-33,,poweredOff,,0 MB ,0 vCPU(s) ,14.1GB
+host-29,CEPH125-05,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,64.0GB
+host-29,shqh2-25,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.1GB
+host-29,shqh2-41,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.1GB
+host-29,centos7-gui,CentOS 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,5.9GB
+host-29,RH436-16,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,37.5GB
+host-3100,shqh2-19,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.8GB
+host-3100,centos7.6,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,1.8GB
+host-3100,student23,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-3100,Centos_7_Template,CentOS 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,2.6GB
+host-3100,shqh2-21,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.5GB
+host-3100,yunyan-node08,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,3.9GB
+host-3100,shqh2-29,,poweredOff,,0 MB ,0 vCPU(s) ,14.4GB
+host-3100,openstack-victoria-controller,CentOS 8 (64-bit),poweredOff,,16384 MB ,4 vCPU(s) ,24.2GB
+host-3100,ubuntu20,Ubuntu Linux (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,11.2GB
+host-3100,rockylinux85,CentOS 8 (64-bit),poweredOff,,2048 MB ,1 vCPU(s) ,1.9GB
+host-3100,17240,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,12.7GB
+host-3100,shqh2-44,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.4GB
+host-3100,student30,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-3100,rockylinux8.5,CentOS 8 (64-bit),poweredOff,,16384 MB ,4 vCPU(s) ,10.5GB
+host-3100,DO447-01,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,69.9GB
+host-3100,oracle-ovf,Oracle Linux 4/5/6 (32-bit),poweredOff,,4096 MB ,1 vCPU(s) ,14.0GB
+host-3100,winserver2008r2,Microsoft Windows Server 2008 R2 (64-bit),poweredOff,,6144 MB ,2 vCPU(s) ,13.7GB
+host-3100,student44,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.3GB
+host-3100,yunwangronghe3,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,5.8GB
+host-3100,shqh2-11,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.7GB
+host-3100,centos8-mini,CentOS 8 (64-bit),poweredOff,,2048 MB ,1 vCPU(s) ,2.0GB
+host-3100,bigdata01,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,12.9GB
+host-3100,RH436-03,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,44.4GB
+host-3100,python-test1,CentOS 7 (64-bit),poweredOn,172.31.200.31,8192 MB ,4 vCPU(s) ,14.8GB
+host-3100,yunju-node08,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,3.9GB
+host-3100,shqh2-35,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.8GB
+host-3100,centos8,CentOS 8 (64-bit),poweredOn,172.31.200.30,16384 MB ,4 vCPU(s) ,64.2GB
+host-3100,yundao-rabbitmq,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,6.6GB
+host-3100,openstack-victoria-compute,CentOS 8 (64-bit),poweredOff,,16384 MB ,4 vCPU(s) ,19.3GB
+host-3100,centos7.6,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,116.0MB
+host-3100,CEPH125-02,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,42.7GB
+host-3100,student10,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-3100,RH436-13,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,37.4GB
+host-3100,rh294-02,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,16384 MB ,4 vCPU(s) ,69.0GB
+host-3100,do447,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,52.8GB
+host-3100,centos8-clone,CentOS 8 (64-bit),poweredOff,,16384 MB ,4 vCPU(s) ,7.2GB
+host-3100,yundao-jump,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,81.1GB
+host-38,DO447-06,,poweredOff,,0 MB ,0 vCPU(s) ,70.9GB
+host-38,yunju-node02,,poweredOff,,0 MB ,0 vCPU(s) ,5.8GB
+host-38,yunwang-bak,,poweredOff,,0 MB ,0 vCPU(s) ,2.6GB
+host-38,yunyan-node04,,poweredOff,,0 MB ,0 vCPU(s) ,3.8GB
+host-38,student24,,poweredOff,,0 MB ,0 vCPU(s) ,6.9GB
+host-38,shqh2-04,,poweredOff,,0 MB ,0 vCPU(s) ,14.3GB
+host-38,CEPH125-07,,poweredOff,,0 MB ,0 vCPU(s) ,66.8GB
+host-38,python-test4,,poweredOff,,0 MB ,0 vCPU(s) ,2.8GB
+host-38,shqh2-07,,poweredOff,,0 MB ,0 vCPU(s) ,14.8GB
+host-38,student09,,poweredOff,,0 MB ,0 vCPU(s) ,6.9GB
+host-38,RH436-18,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,128.0MB
+host-38,student37,,poweredOff,,0 MB ,0 vCPU(s) ,6.3GB
+host-38,student07,,poweredOff,,0 MB ,0 vCPU(s) ,6.9GB
+host-38,yunwang-db,,poweredOff,,0 MB ,0 vCPU(s) ,4.2GB
+host-38,student43,,poweredOff,,0 MB ,0 vCPU(s) ,6.3GB
+host-38,shqh2-42,,poweredOff,,0 MB ,0 vCPU(s) ,14.1GB
+host-38,yundao-redis2,,poweredOff,,0 MB ,0 vCPU(s) ,4.1GB
+host-38,bigdatavm,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,12.8GB
+host-38,RHCI-Foundation,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,49152 MB ,8 vCPU(s) ,166.5GB
+host-38,shqh2-26,,poweredOff,,0 MB ,0 vCPU(s) ,14.4GB
+host-38,yunju-node09,,poweredOff,,0 MB ,0 vCPU(s) ,4.0GB
+host-38,shqh2-38,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,12.9GB
+host-38,shqh2-36,,poweredOff,,0 MB ,0 vCPU(s) ,14.8GB
+host-38,python-test2,,poweredOff,,0 MB ,0 vCPU(s) ,2.5GB
+host-38,RH436-08,,poweredOff,,0 MB ,0 vCPU(s) ,37.4GB
+host-4007,RHCI,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,18.6GB
+host-4007,CEPH125-11,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,52.2GB
+host-4007,yunwang-k8s03,CentOS 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,2.6GB
+host-4007,rh294-01,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,16384 MB ,4 vCPU(s) ,69.1GB
+host-4007,ming200.44,CentOS 7 (64-bit),poweredOff,,16384 MB ,4 vCPU(s) ,18.3GB
+host-4007,centos7-8+200,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,2.7GB
+host-4007,student26,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-4007,shqh2-14,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.1GB
+host-4007,RH436-02,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,34.9GB
+host-4007,rh199-01,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,16384 MB ,4 vCPU(s) ,61.9GB
+host-4007,student22,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-4007,ming200.41,CentOS 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,3.3GB
+host-4007,shqh2-45,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.7GB
+host-4007,ming200.46-gui,CentOS 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,19.8GB
+host-4007,shqh2-48,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.7GB
+host-4007,RH436-12,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,44.0GB
+host-4007,foundation76,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,10.1GB
+host-4007,yundao-eureka,CentOS 7 (64-bit),poweredOff,,16384 MB ,8 vCPU(s) ,6.7GB
+host-4007,yundao-gitlab,,poweredOff,,0 MB ,0 vCPU(s) ,3.6GB
+host-4007,ming200.42,CentOS 7 (64-bit),poweredOn,172.31.200.42,8192 MB ,2 vCPU(s) ,27.3GB
+host-4007,CEPH125-01,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,59.4GB
+host-4007,ming200.43,CentOS 7 (64-bit),poweredOn,172.31.200.43,16384 MB ,4 vCPU(s) ,98.7GB
+host-4007,rh199,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,16384 MB ,4 vCPU(s) ,43.9GB
+host-4007,student14,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-4007,ceph125-00,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,50.3GB
+host-4007,student17,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-4007,shqh2-16,,poweredOff,,0 MB ,0 vCPU(s) ,14.1GB
+host-4007,ming200.40,CentOS 7 (64-bit),poweredOn,172.31.200.40,16384 MB ,4 vCPU(s) ,9.2GB
+host-4007,student16,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-4007,yunwang-k8s02,CentOS 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,5.2GB
+host-42,shqh2-17,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.4GB
+host-42,yundao-k8snode2,,poweredOff,,0 MB ,0 vCPU(s) ,29.6GB
+host-42,student42,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,656.0MB
+host-42,student21,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-42,yundao-kafka2,,poweredOff,,0 MB ,0 vCPU(s) ,4.6GB
+host-42,shqh2-28,,poweredOff,,0 MB ,0 vCPU(s) ,15.1GB
+host-42,CEPH125-08,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,44.2GB
+host-42,DO447-07,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,54.8GB
+host-42,RH436-09,Red Hat Enterprise Linux 8 (64-bit),poweredOff,,32768 MB ,4 vCPU(s) ,44.5GB
+host-42,student45,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,660.0MB
+host-42,student20,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,1.2GB
+host-42,student11,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,6.9GB
+host-42,shqh2-24,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,14.3GB
+host-42,student35,CentOS 7 (64-bit),poweredOff,,1024 MB ,1 vCPU(s) ,660.0MB
+host-42,shqh2-10,Red Hat Enterprise Linux 7 (64-bit),poweredOff,,4096 MB ,2 vCPU(s) ,15.1GB
+host-3093,Student_Remote_Server,Microsoft Windows Server 2019 (64-bit),poweredOff,,329728 MB ,2 vCPU(s) ,120.2GB
+host-3093,bastion_server_internet,CentOS 8 (64-bit),poweredOn,192.168.10.253,32768 MB ,8 vCPU(s) ,157.8GB
+host-3093,pxe-esxi,CentOS 7 (64-bit),poweredOff,,8192 MB ,2 vCPU(s) ,50.0GB
+host-3093,Windows_Remote_Server,Microsoft Windows Server 2019 (64-bit),poweredOn,192.168.10.250,32768 MB ,8 vCPU(s) ,380.8GB
+host-3093,vcenter_server,Other 3.x or later Linux (64-bit),poweredOn,192.168.10.200,19456 MB ,4 vCPU(s) ,248.9GB
+host-3093,exam-system,CentOS 7 (64-bit),poweredOn,,8192 MB ,2 vCPU(s) ,58.1GB
+host-3093,DNS_LDAP_SERVICE,CentOS 8 (64-bit),poweredOn,172.31.0.248,4096 MB ,2 vCPU(s) ,106.6GB
